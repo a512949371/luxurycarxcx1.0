@@ -1,0 +1,25 @@
+{
+  "pages": [
+    "pages/befindex/befindex",
+    "pages/index/index",
+    "pages/detail/detail",
+    "pages/my/my",
+    "pages/no-detail/no-detail",
+    "pages/myorder/myorder",
+    "pages/batchorder/batchorder",
+    "pages/myinfo/myinfo",
+    "pages/login/login",
+    "pages/carowner/carowner",
+    "pages/addresslist/addresslist"
+    
+  ],
+  "window": {
+    "backgroundTextStyle": "dark",
+    "navigationBarBackgroundColor": "#000",
+    "navigationBarTitleText": "车狗狗",
+    "navigationBarTextStyle": "white"
+  },
+  "navigateToMiniProgramAppIdList": [
+    "wx48b3d079b0721c90"
+  ]
+}
